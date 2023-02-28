@@ -32,3 +32,9 @@ If you're looking for someone who has a passion for technology, technical skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github-stats-alpha.vercel.app/api?username={jnvillalba}&cc=000&tc=fff&ic=fff&bc=000
+
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color
