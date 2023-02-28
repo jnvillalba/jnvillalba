@@ -1,18 +1,13 @@
 
-
 <div id="header" align="center">
-   
     <h1 align="center">Hi 👋, I'm Joaquin</h1>
-    <h3 align="center">I like teaching what I learn in my Social</h3>
+    <h3 align="center">I </h3>
 </div>
 ---
 
 ### 👨‍💻 About Me :
 
 - 📫 How to reach me **joaquinvillalba8@gmail.com**
-
-
-
 - 🌐 Website [https://joaquinvillalba.netlify.app/](https://joaquinvillalba.netlify.app/)
 
 
@@ -28,7 +23,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src=" https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-    
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
