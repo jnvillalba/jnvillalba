@@ -31,9 +31,10 @@
 
 ---
 ### 📊 My Stats :
-
+<div align="left">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnvillalba&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnvillalba&show_icons=true&theme=radical)
-
+</div>
+<div align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
