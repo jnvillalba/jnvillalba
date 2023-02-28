@@ -1,12 +1,15 @@
 
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Joaquin</h1>
-    <h3 align="center">I </h3>
+    <h1 align="center">Hello, I'm Joaquin 👋</h1>
+    <h3 align="center">A technology and computer enthusiast with a keen interest in learning and growing in the IT world. I'm seeking my first job in the field, and I'm excited about the opportunities that lie ahead.
+I am currently studying for a bachelor's degree in computer science., and I have also completed additional courses in programming and web development. In addition, I have hands-on experience working on personal projects where I have developed my skills.
+I'm committed to continuous learning and improving my technology skills, and I'm excited for the opportunity to work on a team and collaborate on challenging projects.
+I'm seeking a company that will provide me with the opportunity to learn and grow, and I'm ready to contribute and be a valuable team member. If you're looking for someone who has a passion for technology, technical skills, and a strong desire to learn, then I'm the right person for you! </h3>
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Contact :
 
 - 📫 How to reach me **joaquinvillalba8@gmail.com**
 - 🌐 Website [https://joaquinvillalba.netlify.app/](https://joaquinvillalba.netlify.app/)
