@@ -8,7 +8,9 @@ I'm committed to continuous learning and improving my technology skills, and I'm
 </br>
 If you're looking for someone who has a passion for technology, technical skills, and a strong desire to learn, then I'm the right person for you! </p>
 </div>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jnvillalba&label=Profile%20views&color=0e75b6&style=flat"
+    alt="jnvillalba"/> 
+</p>
 ---
 
 - 👨‍💻 All of my projects are available at [https://joaquinvillalba.netlify.app/](https://joaquinvillalba.netlify.app/)
