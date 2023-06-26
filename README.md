@@ -11,6 +11,7 @@ If you're looking for someone who has a passion for technology, technical skills
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jnvillalba&label=Profile%20views&color=0e75b6&style=flat"
     alt="jnvillalba"/> 
 </p>
+
 ---
 
 - 👨‍💻 All of my projects are available at [https://joaquinvillalba.netlify.app/](https://joaquinvillalba.netlify.app/)
